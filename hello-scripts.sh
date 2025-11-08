@@ -9,4 +9,4 @@ echo "om please make a directory"
 
 mkdir -p Devops
 
-echo "My name is manish" > manish.txt
+echo "My name is manish" > manish.txt ans
